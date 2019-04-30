@@ -15,7 +15,6 @@ A curated list of blogs, websites, and all kinds of reads about software develop
 
 ## Back-end
 * [Mike Perham](https://www.mikeperham.com/) - Sidekiq's creator, talks about Ruby, OSS
-* 
 
 ## Front-end
 * [Smashing Magazine](https://www.smashingmagazine.com/) - editorial content and professional resources for web developers and designers
