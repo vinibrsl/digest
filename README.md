@@ -2,6 +2,10 @@
 
 A curated list of blogs, websites, and all kinds of reads about software development.
 
+![](https://i.imgur.com/d37dGeb.png)
+
+# Summary
+
 - [General](#general)
 - [Back-end](#back-end)
 - [Front-end](#front-end)
