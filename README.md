@@ -15,6 +15,7 @@ A curated list of blogs, websites, and all kinds of reads about software develop
 * [dev.to](https://dev.to/) - open-source community where programmers share ideas and help each other grow
 * [Martian Chronicles](https://evilmartians.com/chronicles) - very detailed posts about back-end, UX, React, Ruby, Rails, front-end
 * [Martin Fowler](https://martinfowler.com/) - reliable content about software architecture, design patterns
+* [Coding Horror](https://blog.codinghorror.com/) - a blog by Jeff Atwood, Stack Overflow's co-founder, on programming and human factors
 * [Joel on Software](https://www.joelonsoftware.com/) - Stack Overflow co-founder's blog. He writes about software development, management, business
 * [Giant Robots Smashing Into Other Giant Robots](https://thoughtbot.com/blog) - written by thoughtbot, experienced designers and developers who turn your idea into the right product
 
