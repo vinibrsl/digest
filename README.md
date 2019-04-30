@@ -12,7 +12,7 @@ A curated list of blogs, websites, and all kinds of reads about software develop
 - [Game Development](#game-development)
 
 ## General
-* [dev.to](https://dev.to/) - [open-source](https://github.com/thepracticaldev/dev.to) community where programmers share ideas and help each other grow
+* [dev.to](https://dev.to/) - open-source community where programmers share ideas and help each other grow
 * [Martian Chronicles](https://evilmartians.com/chronicles) - very detailed posts about back-end, UX, React, Ruby, Rails, front-end
 * [Martin Fowler](https://martinfowler.com/) - reliable content about software architecture, design patterns
 * [Joel on Software](https://www.joelonsoftware.com/) - Stack Overflow co-founder's blog. He writes about software development, management, business
