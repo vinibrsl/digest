@@ -30,6 +30,7 @@ A curated list of blogs, websites, and all kinds of reads about software develop
 * [Overreacted](https://overreacted.io/) - Dan Abramov's personal blog. He writes about React, front-end development, behavior
 * [David Walsh Blog](https://davidwalsh.name/) - tutorials and articles about JavaScript, CSS, animations, HTML5
 * [Google Chrome Developers](https://www.youtube.com/channel/UCnUYZLuoy1rq1aVMwx4aTzw) - videos about web development, Google Chrome updates, PWA
+* [CSS-Tricks](https://css-tricks.com/) - tips, tricks, and techniques on using CSS
 
 ## Game Development
 * [Riot Games Technology](https://technology.riotgames.com/) - stories about the development of League of Legends. They talk about CI, testing, performance
