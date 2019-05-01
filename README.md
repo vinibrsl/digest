@@ -2,7 +2,7 @@
 
 A curated list of blogs, websites, and all kinds of reads about software development.
 
-![](https://i.imgur.com/d37dGeb.png)
+![](https://i.imgur.com/8q0BYtu.png)
 
 # Summary
 
