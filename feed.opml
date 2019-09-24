@@ -1,6 +1,6 @@
 <opml version="2.0">
 	<body>
-		<outline text="Subscriptions" title="Subscriptions">
+		<outline text="vnbrs digest" title="vnbrs digest">
 			<outline xmlUrl='https://martinfowler.com/feed.atom' />
 			<outline xmlUrl='http://feeds.feedburner.com/codinghorror' />
 			<outline xmlUrl='https://www.joelonsoftware.com/feed/' />
