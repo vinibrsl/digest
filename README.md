@@ -1,8 +1,10 @@
 # Digest
-
 A curated list of blogs, websites, and all kinds of reads about software development.
 
 ![](https://i.imgur.com/8q0BYtu.png)
+
+# Usage
+You can load this list into your RSS reader, such as Feedly, by importing [this .opml file](https://github.com/vnbrs/digest/blob/master/feed.opml) into your reader.
 
 # Summary
 
