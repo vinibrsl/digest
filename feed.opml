@@ -1,0 +1,18 @@
+<opml version="2.0">
+	<body>
+		<outline text="Subscriptions" title="Subscriptions">
+			<outline xmlUrl='https://martinfowler.com/feed.atom' />
+			<outline xmlUrl='http://feeds.feedburner.com/codinghorror' />
+			<outline xmlUrl='https://www.joelonsoftware.com/feed/' />
+			<outline xmlUrl='https://feeds.feedburner.com/GiantRobotsSmashingIntoOtherGiantRobots' />
+			<outline xmlUrl='https://m.signalvnoise.com/feed/' />
+			<outline xmlUrl='https://medium.com/feed/google-developers' />
+			<outline xmlUrl='https://www.mikeperham.com/index.xml' />
+			<outline xmlUrl='https://medium.com/feed/netflix-techblog' />
+			<outline xmlUrl='https://www.smashingmagazine.com/feed/' />
+			<outline xmlUrl='https://overreacted.io/rss.xml' />
+			<outline xmlUrl='https://davidwalsh.name/feed' />
+			<outline xmlUrl='https://technology.riotgames.com/news/feed' />
+		</outline>
+	</body>
+</opml>
